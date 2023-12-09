@@ -1,5 +1,5 @@
 **Preview:** 
-ai-paired-programmer/ai-paired-programmer.png
+![AI Paired Programmer](ai-paired-programmer.png)
 
 **Used in:**
 
