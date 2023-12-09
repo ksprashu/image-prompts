@@ -1,3 +1,6 @@
+**Preview:** 
+ai-paired-programmer/ai-paired-programmer.png
+
 **Used in:**
 
 
