@@ -2,6 +2,7 @@
 ![AI Paired Programmer](ai-paired-programmer.png)
 
 **Used in:**
+[Blog: The rise of AI pair programmers](https://medium.com/sunny-cloudy-code/the-rise-of-ai-pair-programmers-f3992d1d57e1)
 
 
 **Base Prompt:**
