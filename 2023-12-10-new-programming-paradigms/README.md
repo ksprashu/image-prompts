@@ -1,8 +1,8 @@
 **Preview:**
-![New Programming Paradigms]()
+![New Programming Paradigms](new-programming-paradigms.png)
 
 **Used in:**
-[Blog: ]()
+[Blog: New Programming Paradigms - Part 1](https://medium.com/sunny-cloudy-code/new-programming-paradigms-part-1-13daf132b997)
 
 **Base Prompt:**
 _I am writing a blog on new ways to solve problems. or new paradigms. Not just by coding, but with coding assistants, maybe even asking bard to generate code, and finally just asking bard to give an answer. 
