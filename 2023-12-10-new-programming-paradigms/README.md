@@ -9,6 +9,8 @@ _I am writing a blog on new ways to solve problems. or new paradigms. Not just b
 
 I want an image where the programmer is waving a magic wand at the PC monitor. There is some indication that there is a problem that needs solving, on the screen. Viewed from the rear 2/3rd of the programmer._
 
+**Model Used:** ChatGPT 4 with DALL-E
+
 **Notes:**
 1. This time I tried to experiment with giving some context to the mode on what I was going to be talking about.
 2. I forgot to mention a style this time.
