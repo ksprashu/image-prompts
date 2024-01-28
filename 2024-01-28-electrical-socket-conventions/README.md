@@ -1,5 +1,5 @@
 **Preview:**
-![Convoluted electrical socket])(convoluted_electrical_socket.png)
+![Convoluted Electrical Socket](convoluted-electrical-socket.png)
 
 **Used in:**
 
